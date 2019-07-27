@@ -1,6 +1,4 @@
-# Note-App-with-React-Native UI
-
-<h1 align='center'>NoteApp-ReactNative-Redux - RESTful API</h1>
+<h1 align='center'>Note App with React Native UI</h1>
 
 <p align='center'>
   <a href='https://facebook.github.io/react-native/'>
